@@ -1,4 +1,4 @@
-&#x20;\<div align="center">
+ <div align="center">
 
 # Jon Novoa
 
@@ -8,12 +8,12 @@
 
 Construyendo, aprendiendo y explorando nuevas formas de resolver problemas mediante la tecnología.
 
+[![GitHub](https://img.shields.io/badge/GitHub-JonNovoa-181717?style=for-the-badge&logo=github)](https://github.com/JonNovoa)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-
-\
-
-
-\</div>
+</div>
 
 ---
 
@@ -31,58 +31,130 @@ Mis principales áreas de interés son el desarrollo backend, la programación, 
 
 Proyectos académicos y de desarrollo en diferentes áreas de la tecnología.
 
-\<table>   \<tr>     \<td width="50%" valign="top">       \<h3>🌐 Webserver\</h3>       \<a href="[https://github.com/JonNovoa/Webserver](https://github.com/JonNovoa/Webserver)">         \<img src="[https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge\&logo=github)" alt="Ver Webserver">       \</a>       \<p>Servidor web desarrollado en C++98 como parte del programa de 42. Trabajo con los fundamentos de HTTP, redes y programación de servidores.\</p>       \<p>\<strong>Tecnologías\</strong>\</p>       \<code>C++\</code> \<code>C++98\</code> \<code>HTTP\</code> \<code>Redes\</code>     \</td>     \<td width="50%" valign="top">       \<h3>🐳 Inception\</h3>       \<a href="[https://github.com/JonNovoa/Inception](https://github.com/JonNovoa/Inception)">         \<img src="[https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge\&logo=github)" alt="Ver Inception">       \</a>       \<p>Proyecto de administración de sistemas centrado en construir y gestionar una infraestructura de servicios mediante contenedores.\</p>       \<p>\<strong>Tecnologías\</strong>\</p>       \<code>Docker\</code> \<code>Docker Compose\</code> \<code>NGINX\</code> \<code>WordPress\</code> \<code>MariaDB\</code>     \</td>   \</tr>   \<tr>     \<td width="50%" valign="top">       \<h3>📊 Análisis de tráfico y meteorología\</h3>       \<a href="[https://github.com/JonNovoa/Analisis-trafico-meteorologia](https://github.com/JonNovoa/Analisis-trafico-meteorologia)">         \<img src="[https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge\&logo=github)" alt="Ver análisis">       \</a>       \<p>Proyecto de análisis de datos centrado en estudiar la relación entre los accidentes de tráfico y las condiciones meteorológicas.\</p>       \<p>\<strong>Tecnologías\</strong>\</p>       \<code>R\</code> \<code>Análisis de datos\</code> \<code>Estadística\</code>     \</td>     \<td width="50%" valign="top">       \<h3>🤖 Tweets-iabd\</h3>       \<a href="[https://github.com/HaizeaF/Tweets-iabd](https://github.com/HaizeaF/Tweets-iabd)">         \<img src="[https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge\&logo=github)" alt="Ver Tweets-iabd">       \</a>       \<p>Proyecto académico realizado durante la especialización en Inteligencia Artificial y Big Data.\</p>       \<p>\<strong>Área\</strong>\</p>       \<code>Inteligencia Artificial\</code> \<code>Big Data\</code>     \</td>   \</tr>   \<tr>     \<td width="50%" valign="top">       \<h3>💻 RetoG2Client\</h3>       \<a href="[https://github.com/josueomarvargas/RetoG2Client](https://github.com/josueomarvargas/RetoG2Client)">         \<img src="[https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge\&logo=github)" alt="Ver RetoG2Client">       \</a>       \<p>Componente cliente de un proyecto académico de desarrollo de aplicaciones.\</p>     \</td>     \<td width="50%" valign="top">       \<h3>⚙️ RetoG2Serv\</h3>       \<a href="[https://github.com/Gonzalo0304/RetoG2Serv](https://github.com/Gonzalo0304/RetoG2Serv)">         \<img src="[https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge\&logo=github)" alt="Ver RetoG2Serv">       \</a>       \<p>Componente servidor de un proyecto académico de desarrollo colaborativo.\</p>     \</td>   \</tr>   \<tr>     \<td width="50%" valign="top">       \<h3>🐍 G2ProyectoPyOdoo\</h3>       \<a href="[https://github.com/josueomarvargas/G2ProyectoPyOdoo](https://github.com/josueomarvargas/G2ProyectoPyOdoo)">         \<img src="[https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge\&logo=github)" alt="Ver G2ProyectoPyOdoo">       \</a>       \<p>Proyecto académico relacionado con el desarrollo utilizando Python y Odoo.\</p>       \<p>\<strong>Tecnologías\</strong>\</p>       \<code>Python\</code> \<code>Odoo\</code>     \</td>     \<td width="50%" valign="top">       \<h3>💡 Interés por aprender\</h3>       \<p>Me interesa seguir explorando el desarrollo de software, la arquitectura, la automatización, la infraestructura y el análisis de datos.\</p>     \</td>   \</tr> \</table>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Webserver</h3>
+      <a href="https://github.com/JonNovoa/Webserver">
+        <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github" alt="Ver Webserver">
+      </a>
+      <p>Servidor web desarrollado en C++98 como parte del programa de 42. Trabajo con los fundamentos de HTTP, redes y programación de servidores.</p>
+      <p><strong>Tecnologías</strong></p>
+      <code>C++</code> <code>C++98</code> <code>HTTP</code> <code>Redes</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐳 Inception</h3>
+      <a href="https://github.com/JonNovoa/Inception">
+        <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github" alt="Ver Inception">
+      </a>
+      <p>Proyecto de administración de sistemas centrado en construir y gestionar una infraestructura de servicios mediante contenedores.</p>
+      <p><strong>Tecnologías</strong></p>
+      <code>Docker</code> <code>Docker Compose</code> <code>NGINX</code> <code>WordPress</code> <code>MariaDB</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Análisis de tráfico y meteorología</h3>
+      <a href="https://github.com/JonNovoa/Analisis-trafico-meteorologia">
+        <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github" alt="Ver análisis">
+      </a>
+      <p>Proyecto de análisis de datos centrado en estudiar la relación entre los accidentes de tráfico y las condiciones meteorológicas.</p>
+      <p><strong>Tecnologías</strong></p>
+      <code>R</code> <code>Análisis de datos</code> <code>Estadística</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Tweets-iabd</h3>
+      <a href="https://github.com/HaizeaF/Tweets-iabd">
+        <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github" alt="Ver Tweets-iabd">
+      </a>
+      <p>Proyecto académico realizado durante la especialización en Inteligencia Artificial y Big Data.</p>
+      <p><strong>Área</strong></p>
+      <code>Inteligencia Artificial</code> <code>Big Data</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 RetoG2Client</h3>
+      <a href="https://github.com/josueomarvargas/RetoG2Client">
+        <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github" alt="Ver RetoG2Client">
+      </a>
+      <p>Componente cliente de un proyecto académico de desarrollo de aplicaciones.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ RetoG2Serv</h3>
+      <a href="https://github.com/Gonzalo0304/RetoG2Serv">
+        <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github" alt="Ver RetoG2Serv">
+      </a>
+      <p>Componente servidor de un proyecto académico de desarrollo colaborativo.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐍 G2ProyectoPyOdoo</h3>
+      <a href="https://github.com/josueomarvargas/G2ProyectoPyOdoo">
+        <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github" alt="Ver G2ProyectoPyOdoo">
+      </a>
+      <p>Proyecto académico relacionado con el desarrollo utilizando Python y Odoo.</p>
+      <p><strong>Tecnologías</strong></p>
+      <code>Python</code> <code>Odoo</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💡 Interés por aprender</h3>
+      <p>Me interesa seguir explorando el desarrollo de software, la arquitectura, la automatización, la infraestructura y el análisis de datos.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🧰 Intereses técnicos
 
-| Área                            | Tecnologías y conocimientos               |
-| ------------------------------- | ----------------------------------------- |
-| Programación                    | C · C++ · Java · Python · JavaScript · R  |
-| Backend y bases de datos        | SQL · MySQL · MariaDB · Hibernate         |
-| Sistemas e infraestructura      | Linux · Docker · Docker Compose · NGINX   |
+| Área | Tecnologías y conocimientos |
+|---|---|
+| Programación | C · C++ · Java · Python · JavaScript · R |
+| Backend y bases de datos | SQL · MySQL · MariaDB · Hibernate |
+| Sistemas e infraestructura | Linux · Docker · Docker Compose · NGINX |
 | Datos e inteligencia artificial | R · Python · Análisis de datos · Big Data |
-| Automatización                  | Power Automate · Excel VBA                |
-| Herramientas                    | Git · GitHub · VS Code                    |
+| Automatización | Power Automate · Excel VBA |
+| Herramientas | Git · GitHub · VS Code |
 
 ---
 
 ## 🎓 Formación
 
-| Formación                                                      | Centro               |
-| -------------------------------------------------------------- | -------------------- |
-| Especialización en Inteligencia Artificial y Big Data          | CIFP Tartanga        |
-| Técnico Superior en Desarrollo de Aplicaciones Multiplataforma | CIFP Tartanga        |
-| Formación práctica en programación                             | 42 Urduliz           |
-| Técnico en Mecatrónica Industrial                              | CIFP Nicolás Larburu |
+| Formación | Centro |
+|---|---|
+| Especialización en Inteligencia Artificial y Big Data | CIFP Tartanga |
+| Técnico Superior en Desarrollo de Aplicaciones Multiplataforma | CIFP Tartanga |
+| Formación práctica en programación | 42 Urduliz |
+| Técnico en Mecatrónica Industrial | CIFP Nicolás Larburu |
 
 ---
 
 ## 🧠 Mi forma de trabajar
 
-\<table>
-&#x20; \<tr>
-&#x20;   \<td width="50%" valign="top">
-&#x20;     \<strong>01 · Comprender primero\</strong>
-&#x20;     \<p>Entender el problema y analizar cómo funcionan las distintas partes antes de buscar una solución.\</p>
-&#x20;   \</td>
-&#x20;   \<td width="50%" valign="top">
-&#x20;     \<strong>02 · Aprender construyendo\</strong>
-&#x20;     \<p>Desarrollar conocimientos mediante proyectos prácticos y retos técnicos.\</p>
-&#x20;   \</td>
-&#x20; \</tr>
-&#x20; \<tr>
-&#x20;   \<td width="50%" valign="top">
-&#x20;     \<strong>03 · Resolver paso a paso\</strong>
-&#x20;     \<p>Dividir los problemas complejos en partes más pequeñas y manejables.\</p>
-&#x20;   \</td>
-&#x20;   \<td width="50%" valign="top">
-&#x20;     \<strong>04 · Mejorar continuamente\</strong>
-&#x20;     \<p>Investigar, depurar, revisar soluciones y aprender de los errores.\</p>
-&#x20;   \</td>
-&#x20; \</tr>
-\</table>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>01 · Comprender primero</strong>
+      <p>Entender el problema y analizar cómo funcionan las distintas partes antes de buscar una solución.</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong>02 · Aprender construyendo</strong>
+      <p>Desarrollar conocimientos mediante proyectos prácticos y retos técnicos.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>03 · Resolver paso a paso</strong>
+      <p>Dividir los problemas complejos en partes más pequeñas y manejables.</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong>04 · Mejorar continuamente</strong>
+      <p>Investigar, depurar, revisar soluciones y aprender de los errores.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -93,14 +165,14 @@ Proyectos académicos y de desarrollo en diferentes áreas de la tecnología.
 
 ---
 
-\<div align="center">
+<div align="center">
 
 ## 📫 Contacto
 
 **Bizkaia, España**
 
-
+[![GitHub](https://img.shields.io/badge/GitHub-JonNovoa-181717?style=for-the-badge&logo=github)](https://github.com/JonNovoa)
 
 *Construir · Comprender · Mejorar*
 
-\</div>
+</div>
